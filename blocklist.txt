@@ -1,4 +1,4 @@
 [DS Synth Pro Blocklist]
-serial  = 2
-issued  = 2026-10-31
-sig     = MEYCIQDiJawkeHKhw9McYxw0Qj4y2amL+ccCdVy/MaBRf2EcngIhAPY38qjxZBxvCSj1IuTR3NMKlhh6oK9U+LLgNzp0Y9Z8
+serial  = 4
+issued  = 2026-11-12
+sig     = MEYCIQCFMl+C3NE4m/IiOBzZkTWv6sdmiKjGlPW//TAX47nLggIhALpYi89zUOCNwM1cnFlzQxRq9zcSBmDyjZ2QrePGfLWn
